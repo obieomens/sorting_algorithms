@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 O(nlog(n))
 O(nlog(n))
+=======
+O(n log n)
+O(n log n)
+>>>>>>> ae71ba9b8ddebb94e7ac1e6f025b98ed4d57627d
 O(n^2)

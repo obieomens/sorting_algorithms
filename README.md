@@ -1,3 +1,3 @@
 sorting_algorithms project done by:
-Maryann Omenuko
+Maryann Omenuko,
 Emelda Mada

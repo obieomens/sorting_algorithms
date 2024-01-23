@@ -17,5 +17,5 @@ int i;
 		++i;
 		list = list->next;
 	}
-	printf("\n);
+	printf("\n");
 }
